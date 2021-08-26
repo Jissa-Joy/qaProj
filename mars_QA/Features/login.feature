@@ -1,5 +1,5 @@
 ﻿Feature: login
-	Simple calculator for adding two numbers
+	login page of Proj Mars
 
 @mytag
 
